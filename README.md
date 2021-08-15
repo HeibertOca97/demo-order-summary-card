@@ -1,3 +1,3 @@
-# Code Mentor Challenge
+# Frontend Mentor Challenge
 
-Developing an order summary card
+Developing an order summary card (Nivel: Basico)
